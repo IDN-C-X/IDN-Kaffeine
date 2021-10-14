@@ -8,7 +8,7 @@ GEM
       websocket-driver (>= 0.6.1)
     actionmailer (5.2.3)
       actionpack (= 5.2.3)
-      actionview (= 5.2.3)
+      actionview (= 5.2.4.4)
       activejob (= 5.2.3)
       mail (~> 2.5, >= 2.5.4)
       rails-dom-testing (~> 2.0)
